@@ -51,7 +51,7 @@ input:
 example:
 
 ```shel
-node merge-video -i /Users/h/Downloads/bdyDownload/30.Nginx核心知识100讲/1 第一章 初识Nginx  
+node merge-video -i '/Users/h/Downloads/bdyDownload/30.Nginx核心知识100讲/1 第一章 初识Nginx'  
 
 # output
 第一章 初识Nginx.mp4
