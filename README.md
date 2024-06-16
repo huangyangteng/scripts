@@ -59,3 +59,37 @@ node merge-video -i '/Users/h/Downloads/bdyDownload/30.Nginx核心知识100讲/1
 第一章 初识Nginx.csv
 ```
 
+### fetching  docs
+
+fetching docs from Next.js React  Vue or other website.
+
+output:
+
+```
+table structure:
+id,sentence,link,source
+
+source:
+1 next.js
+2 react
+3 vue
+```
+
+dependices
+
+* puppet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
