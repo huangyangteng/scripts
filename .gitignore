@@ -3,6 +3,9 @@ output.json
 logs
 *.log
 *.csv
+*.xlsx
+.DS_Store
+*.idea
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

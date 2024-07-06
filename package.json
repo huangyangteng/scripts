@@ -8,6 +8,7 @@
   "dependencies": {
     "axios": "^1.7.2",
     "csv-writer": "^1.6.0",
+    "dayjs": "^1.11.11",
     "node-xlsx": "^0.24.0",
     "nodemon": "^3.1.2",
     "puppeteer-core": "^22.11.0",
